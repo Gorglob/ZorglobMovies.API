@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZorglobMovies.API", "ZorglobMovies.API\ZorglobMovies.API.csproj", "{3A17083E-7174-4A19-96E9-91B07DD334F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A17083E-7174-4A19-96E9-91B07DD334F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A17083E-7174-4A19-96E9-91B07DD334F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A17083E-7174-4A19-96E9-91B07DD334F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A17083E-7174-4A19-96E9-91B07DD334F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {784E3B2D-46EE-44B3-A7AC-E5E9D0BF31D0}
+	EndGlobalSection
+EndGlobal
